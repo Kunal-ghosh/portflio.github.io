@@ -384,6 +384,11 @@
     background: #4070f4
 }
 
+ion-icon {
+    margin-top: 15px;
+    font-size: 40px;
+}
+
 #mypic {
     margin-top: -100px;
     margin-left: -900px;
