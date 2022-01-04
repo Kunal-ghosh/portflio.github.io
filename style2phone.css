@@ -1,0 +1,966 @@
+/* devanagari */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJbecmNE.woff2) format('woff2');
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJnecmNE.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* devanagari */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2) format('woff2');
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1JlFc-K.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* devanagari */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2) format('woff2');
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* devanagari */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2) format('woff2');
+    unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v15/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKcg72j00.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKew72j00.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKcw72j00.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+
+/* greek */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKfA72j00.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKcQ72j00.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKfw72.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jvWyNL4U.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jtGyNL4U.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jvGyNL4U.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+
+/* greek */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3js2yNL4U.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jvmyNL4U.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCjC3jsGyN.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* cyrillic-ext */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjvWyNL4U.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+
+/* cyrillic */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjtGyNL4U.woff2) format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+
+
+/* greek-ext */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjvGyNL4U.woff2) format('woff2');
+    unicode-range: U+1F00-1FFF;
+}
+
+
+/* greek */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjs2yNL4U.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+
+
+/* latin-ext */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjvmyNL4U.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+
+/* latin */
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCv6KVjbNBYlgoCxCvjsGyN.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@import 'https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap';
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth
+}
+
+ ::-webkit-scrollbar {
+    width: 10px
+}
+
+ ::-webkit-scrollbar-track {
+    background: #f1f1f1
+}
+
+ ::-webkit-scrollbar-thumb {
+    background: #6e93f7;
+    border-radius: 12px;
+    transition: all .3s ease
+}
+
+ ::-webkit-scrollbar-thumb:hover {
+    background: #4070f4
+}
+
+#mypic {
+    margin-top: -100px;
+    margin-left: -900px;
+    margin-bottom: 115px;
+}
+
+nav {
+    position: fixed;
+    width: 100%;
+    padding: 20px 0;
+    z-index: 998;
+    transition: all .3s ease;
+    font-family: ubuntu, sans-serif;
+    background-color: #4070f4;
+}
+
+nav.sticky {
+    background: #4070f4;
+    padding: 13px 0
+}
+
+nav .navbar {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+
+nav .navbar .logo a {
+    font-weight: 500;
+    font-size: 35px;
+    color: #ffffff
+}
+
+nav.sticky .navbar .logo a {
+    color: #fff
+}
+
+nav .navbar .menu {
+    display: flex;
+    position: relative
+}
+
+nav .navbar .menu li {
+    list-style: none;
+    margin: 0 8px
+}
+
+.navbar .menu a {
+    font-size: 18px;
+    font-weight: 500;
+    color: #0e2431;
+    padding: 6px 0;
+    transition: all .4s ease
+}
+
+.navbar .menu a:hover {
+    color: #4070f4
+}
+
+nav.sticky .menu a {
+    color: #fff
+}
+
+nav.sticky .menu a:hover {
+    color: #0e2431
+}
+
+.navbar .media-icons a {
+    color: #4070f4;
+    font-size: 18px;
+    margin: 0 6px
+}
+
+nav.sticky .media-icons a {
+    color: #fff
+}
+
+nav .menu-btn,
+.navbar .menu .cancel-btn {
+    position: absolute;
+    color: #fff;
+    right: 30px;
+    top: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    transition: all .3s ease;
+    display: none
+}
+
+nav .menu-btn {
+    margin-top: 8px;
+    color: #4070f4
+}
+
+nav.sticky .menu-btn {
+    margin-top: 0;
+    color: #fff
+}
+
+.navbar .menu .menu-btn {
+    color: #fff
+}
+
+.home {
+    height: 100vh;
+    width: 100%;
+    background: url(images/background.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: ubuntu, sans-serif;
+    background-color: #b6caff;
+    background: linear-gradient(132deg, #3d4f63, #0e4e2e, #8d08e6);
+    background-size: 400% 400%;
+    animation: Gradient 15s ease infinite;
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    padding: 0;
+    margin: 0px;
+}
+
+
+/* Animate Background*/
+
+@keyframes Gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.home .home-content {
+    width: 90%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #6e93f7
+}
+
+.home .text-one {
+    margin-top: -500px;
+    font-size: 25px;
+    color: #0e2431
+}
+
+.home .text-two {
+    color: #0e2431;
+    font-size: 75px;
+    font-weight: 600;
+    margin-left: -3px
+}
+
+.home .text-three {
+    font-size: 40px;
+    margin: 5px 0;
+    color: #4070f4
+}
+
+.home .text-four {
+    margin-bottom: 500px;
+    margin: 5px 0;
+    color: #0e2431
+}
+
+.home .button {
+    margin: 14px 0
+}
+
+.home .button button {
+    outline: none;
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-size: 25px;
+    font-weight: 400;
+    background: #4070f4;
+    color: #fff;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: all .4s ease
+}
+
+.home .button button:hover {
+    border-color: #4070f4;
+    background-color: #fff;
+    color: #4070f4
+}
+
+section {
+    padding-top: 40px
+}
+
+section .content {
+    width: 80%;
+    margin: 40px auto;
+    font-family: poppins, sans-serif
+}
+
+.about .about-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+section .title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px
+}
+
+section .title span {
+    color: #0e2431;
+    font-size: 30px;
+    font-weight: 600;
+    position: relative;
+    padding-bottom: 8px
+}
+
+section .title span::before,
+section .title span::after {
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background: #4070f4;
+    left: 0;
+    bottom: 0
+}
+
+section .title span::after {
+    bottom: -7px;
+    width: 70%;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+.about .about-details .left {
+    width: 45%
+}
+
+.about .left img {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 12px
+}
+
+.about-details .right {
+    width: 55%
+}
+
+section .topic {
+    color: #0e2431;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 10px
+}
+
+.about-details .right p {
+    text-align: justify;
+    color: #0e2431
+}
+
+section .button {
+    margin: 16px 0
+}
+
+section .button button {
+    outline: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 25px;
+    font-weight: 400;
+    background: #4070f4;
+    color: #fff;
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: all .4s ease
+}
+
+section .button button:hover {
+    border-color: #4070f4;
+    background-color: #fff;
+    color: #4070f4
+}
+
+.skills {
+    background: #f0f8ff;
+    background: linear-gradient(132deg, #3d4f63, #591BC5, #860092);
+    background-size: 400% 400%;
+    animation: Gradient 15s ease infinite;
+    position: relative;
+    /* height: 100vh;
+    width: 100%; */
+    overflow: hidden;
+    padding: 0;
+    margin: 0px;
+}
+
+.skills .content {
+    padding: 40px 0
+}
+
+.skills .skills-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.skills-details .text {
+    width: 50%
+}
+
+.skills-details p {
+    color: #0e2431;
+    text-align: justify
+}
+
+.skills .skills-details .experience {
+    display: flex;
+    align-items: center;
+    margin: 0 10px
+}
+
+.skills-details .experience .num {
+    color: #0e2431;
+    font-size: 80px
+}
+
+.skills-details .experience .exp {
+    color: #0e2431;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0 6px
+}
+
+.skills-details .boxes {
+    width: 45%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.skills-details .box {
+    width: calc(100%/2 - 20px);
+    margin: 20px 0
+}
+
+.skills-details .boxes .topic {
+    font-size: 20px;
+    color: #4070f4
+}
+
+.skills-details .boxes .per {
+    font-size: 60px;
+    color: #4070f4
+}
+
+.services .boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.services .boxes .box {
+    margin: 20px 0;
+    width: calc(100%/3 - 20px);
+    text-align: center;
+    border-radius: 12px;
+    padding: 30px 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .12);
+    cursor: default;
+    transition: all .4s ease
+}
+
+.services .boxes .box:hover {
+    background: #4070f4;
+    color: #fff
+}
+
+.services .boxes .box .icon {
+    height: 50px;
+    width: 50px;
+    background: #4070f4;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    color: #fff;
+    margin: 0 auto 10px;
+    transition: all .4s ease
+}
+
+.boxes .box:hover .icon {
+    background-color: #fff;
+    color: #4070f4
+}
+
+.services .boxes .box:hover .topic,
+.services .boxes .box:hover p {
+    color: #0e2431;
+    transition: all .4s ease
+}
+
+.services .boxes .box:hover .topic,
+.services .boxes .box:hover p {
+    color: #fff
+}
+
+.contact {
+    background: #f0f8ff
+}
+
+.contact .content {
+    margin: 0 auto;
+    padding: 30px 0
+}
+
+.contact .text {
+    width: 80%;
+    text-align: center;
+    margin: auto
+}
+
+footer {
+    background: #4070f4;
+    padding: 15px 0;
+    text-align: center;
+    font-family: poppins, sans-serif
+}
+
+footer .text span {
+    font-size: 17px;
+    font-weight: 400;
+    color: #fff
+}
+
+footer .text span a {
+    font-weight: 500;
+    color: #fff
+}
+
+footer .text span a:hover {
+    text-decoration: underline
+}
+
+.scroll-button a {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    color: #fff;
+    background: #4070f4;
+    padding: 7px 12px;
+    font-size: 18px;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, .15);
+    display: none
+}
+
+@media(max-width:1190px) {
+    section .content {
+        width: 85%
+    }
+}
+
+@media(max-width:1000px) {
+    .about .about-details {
+        justify-content: center;
+        flex-direction: column
+    }
+    .about .about-details .left {
+        display: flex;
+        justify-content: center;
+        width: 100%
+    }
+    .about-details .right {
+        width: 90%;
+        margin: 40px 0
+    }
+    .services .boxes .box {
+        margin: 20px 0;
+        width: calc(100%/2 - 20px)
+    }
+}
+
+@media(max-width:900px) {
+    .about .left img {
+        height: 350px;
+        width: 350px
+    }
+}
+
+@media(max-width:750px) {
+    nav .navbar {
+        width: 90%
+    }
+    nav .navbar .menu {
+        position: fixed;
+        left: -100%;
+        top: 0;
+        background: #0e2431;
+        height: 100vh;
+        max-width: 400px;
+        width: 100%;
+        padding-top: 60px;
+        flex-direction: column;
+        align-items: center;
+        transition: all .5s ease
+    }
+    .navbar.active .menu {
+        left: 0
+    }
+    nav .navbar .menu a {
+        font-size: 23px;
+        display: block;
+        color: #fff;
+        margin: 10px 0
+    }
+    nav.sticky .menu a:hover {
+        color: #4070f4
+    }
+    nav .navbar .media-icons {
+        display: none
+    }
+    nav .menu-btn,
+    .navbar .menu .cancel-btn {
+        display: block
+    }
+    .home .text-two {
+        font-size: 65px
+    }
+    .home .text-three {
+        font-size: 35px
+    }
+    .skills .skills-details {
+        align-items: center;
+        justify-content: center;
+        flex-direction: column
+    }
+    .skills-details .text {
+        width: 100%;
+        margin-bottom: 50px
+    }
+    .skills-details .boxes {
+        justify-content: center;
+        align-items: center;
+        width: 100%
+    }
+    .services .boxes .box {
+        margin: 20px 0;
+        width: 100%
+    }
+    .contact .text {
+        width: 100%
+    }
+}
+
+@media(max-width:500px) {
+    .home .text-two {
+        font-size: 55px
+    }
+    .home .text-three {
+        font-size: 33px
+    }
+    .skills-details .boxes .per {
+        font-size: 50px;
+        color: #4070f4
+    }
+}
